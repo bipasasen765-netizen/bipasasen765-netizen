@@ -11,6 +11,9 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFwaGpvZjV2b3RobWNqMXhvZWpodmFnZ2dyOXpycHNlNDZpcHlodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif" width="200px">
 
+### 🐍 Cute Contribution Snake 🎀
+
+![snak animation](https://raw.githubusercontent.com/bipasasen765-netizen/snk/refs/heads/manual-run-output/only-svg/github-contribution-grid-snake.svg)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=bipasa&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
